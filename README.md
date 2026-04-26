@@ -2,7 +2,7 @@
 
 BioSynthesize AI is a high-performance, agentic research tool designed for life sciences and healthcare professionals. It empowers researchers to validate complex hypotheses by autonomously crawling global scientific literature and multi-omics databases.
 
-Team Members: Diane Kim, Yingquan Li, Zoey CuiZhu, Shikha Shah
+**Team Members**: Diane Kim, Yingquan Li, Zoey CuiZhu, Shikha Shah
 
 ## 🚀 Key Features
 
